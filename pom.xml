@@ -58,7 +58,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>spring-employee-rest-api-war</finalName>
+		<finalName>spring-employees-rest-api</finalName>
 	</build>
 
 </project>
