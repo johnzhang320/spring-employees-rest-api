@@ -1,5 +1,5 @@
-/Users/jianzhang/Angular-Projects/refine/spring-employees-rest-api/src/main/java/com/spring/employees/rest/api/controller/EmployeesController.java
-/Users/jianzhang/Angular-Projects/refine/spring-employees-rest-api/src/main/java/com/spring/employees/rest/api/SpringEmployeesRestApiApplication.java
-/Users/jianzhang/Angular-Projects/refine/spring-employees-rest-api/src/main/java/com/spring/employees/rest/api/ServletInitializer.java
-/Users/jianzhang/Angular-Projects/refine/spring-employees-rest-api/src/main/java/com/spring/employees/rest/api/repository/EmployeeRepository.java
-/Users/jianzhang/Angular-Projects/refine/spring-employees-rest-api/src/main/java/com/spring/employees/rest/api/model/Employees.java
+/Users/jianzhang/Jenkins/github/spring-employees-rest-api/src/main/java/com/spring/employees/rest/api/controller/EmployeesController.java
+/Users/jianzhang/Jenkins/github/spring-employees-rest-api/src/main/java/com/spring/employees/rest/api/model/Employees.java
+/Users/jianzhang/Jenkins/github/spring-employees-rest-api/src/main/java/com/spring/employees/rest/api/ServletInitializer.java
+/Users/jianzhang/Jenkins/github/spring-employees-rest-api/src/main/java/com/spring/employees/rest/api/repository/EmployeeRepository.java
+/Users/jianzhang/Jenkins/github/spring-employees-rest-api/src/main/java/com/spring/employees/rest/api/SpringEmployeesRestApiApplication.java
