@@ -9,7 +9,7 @@ import java.util.List;
 
 @RestController
 //@RequestMapping("/api/v1/employees")
-@RequestMapping("/spring-employees-rest-api")
+//@RequestMapping("/spring-employees-rest-api")
 //(origins = "http://localhost:4200")  //make angular can access this controller by allow cross origin way
 
 @CrossOrigin(allowedHeaders = {"Authorization", "Origin"})
