@@ -8,7 +8,8 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/v1/employees")
+//@RequestMapping("/api/v1/employees")
+@RequestMapping("/")
 //(origins = "http://localhost:4200")  //make angular can access this controller by allow cross origin way
 
 @CrossOrigin(allowedHeaders = {"Authorization", "Origin"})
