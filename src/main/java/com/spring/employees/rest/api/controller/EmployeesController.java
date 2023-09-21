@@ -21,7 +21,7 @@ import java.util.List;
  */
 @RestController
 
-@RequestMapping("/spring-employees-rest-api")
+//@RequestMapping("/spring-employees-rest-api")
 @Slf4j
 //@RequestMapping("/api/v1/employees")
 @RequiredArgsConstructor
